@@ -1,0 +1,29 @@
+{
+  "name": "comp392-lab3",
+  "version": "1.0.0",
+  "description": "COMP392- Lab 3 for centennial college",
+  "main": "game.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MillanAir/COMP392-Lab3.git"
+  },
+  "author": "Milan Verma",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/MillanAir/COMP392-Lab3/issues"
+  },
+  "homepage": "https://github.com/MillanAir/COMP392-Lab3#readme",
+  "devDependencies": {
+    "gulp": "^3.9.1",
+    "gulp-connect": "^2.3.1",
+    "gulp-debug": "^2.1.2",
+    "gulp-inject": "^3.0.0",
+    "gulp-open": "^1.0.0",
+    "gulp-sourcemaps": "^1.6.0",
+    "gulp-typescript": "^2.11.0",
+    "gulp-util": "^3.0.7"
+  },
+  "dependencies": {
+    "typescript": "^1.7.5"
+  }
+}
